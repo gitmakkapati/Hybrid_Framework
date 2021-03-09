@@ -4,5 +4,6 @@ Simple scenario to login the zoopla application and making an advanced search fo
 Directory structure:
  Extent Reports: (folder - "target\cucumber-reports"), file - "index.html"
 
+![image](https://user-images.githubusercontent.com/79170184/110493082-75ae6c80-80ea-11eb-912e-6ff57d35848d.png)
 
 
